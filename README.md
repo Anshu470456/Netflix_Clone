@@ -15,7 +15,7 @@ Welcome to the Netflix Clone App built with React Native! Experience the world o
 
 The Netflix Clone App is a React Native application designed to provide users with an immersive streaming experience. With features like video playback, navigation, and a sleek design, users can enjoy their favorite content on the go.
 
-<img src="./src/assets/splash.png" alt="Home Screen" height="320" width="160"/>             <img src="./src/assets/home.png" alt="Home Screen" height="320" width="160"/>           <img src="./src/assets/main.png" alt="Home Screen" height="320" width="160"/>
+<img src="./src/assets/splash.png" alt="Home Screen" height="400" width="200"/>             <img src="./src/assets/home.png" alt="Home Screen" height="400" width="200"/>           <img src="./src/assets/main.png" alt="Home Screen" height="400" width="200"/>
 
 ## Features
 
